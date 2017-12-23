@@ -5,5 +5,5 @@
 
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
-For more details: https://researchdesignlab.com/4-20ma-current-loop-transmitters.html
+For more details: https://researchdesignlab.com/development-baord/arm/lpc1768-arm-cortex-m3-development-board-trainer-kit.html
 

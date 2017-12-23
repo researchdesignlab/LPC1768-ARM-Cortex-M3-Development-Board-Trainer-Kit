@@ -16,7 +16,7 @@ int main()
 
   KEYPAD_Init(P2_0,P2_1,P2_2,P2_3,P2_4,P2_5,P2_6,P2_7);  // Keypad is connected to P2_0 - P2_7
 
-    LCD_Printf("Key Pressed:");
+    LCD_Printf("RDL Technologies:");
     while (1) 
     {
         key = KEYPAD_GetKey();     // Read the Ascii value of Key
